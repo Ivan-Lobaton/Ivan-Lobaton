@@ -23,9 +23,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
+<hr/>
+
 ###
 
-<img src="https://raw.githubusercontent.com/Ivan-Lobaton/Ivan-Lobaton/output/snake.svg" alt="Snake animation" />
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
+
+<hr/>
 
 ###
 
